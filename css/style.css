@@ -1724,14 +1724,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 10px;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 5px;
+  margin: 0 auto;
   opacity:0.8;
-  object-position: center;
-  width: 400px;
-  margin-left: auto;
-  margin-right: auto;
-  position: absolute;
-  display: flex; 
+  width: 300px;
+  display: block; 
   justify-content: center;
 }
 
