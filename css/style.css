@@ -1733,8 +1733,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .button-reg span {
-  cursor: pointer;
-  display: inline-block;
+  cursor: pointer; 
   position: relative;
   transition: 0.5s;
 }
