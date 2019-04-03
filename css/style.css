@@ -1731,7 +1731,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-left: auto;
   margin-right: auto;
   position: absolute;
-  display: block;
+  display: flex; 
   justify-content: center;
 }
 
