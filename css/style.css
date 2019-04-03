@@ -1720,8 +1720,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
-  padding: 20px;
+  font-size: 18px;
+  padding: 10px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
