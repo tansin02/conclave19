@@ -886,7 +886,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 60px;
   overflow: hidden;
   border-radius: 50%;
-  float: left;
+  float: right;
   margin: 0 10px 10px 0;
 }
 
