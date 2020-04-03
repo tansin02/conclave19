@@ -1336,7 +1336,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
-
+/* 
 #contact {
   padding: 60px 0;
 }
@@ -1436,7 +1436,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact .form button[type="submit"]:hover {
   background: #e0072f;
 }
-
+*/
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
@@ -1461,7 +1461,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 26px;
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
-  line-height: 1;
+  line-height: 1; 
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   color: #fff;
