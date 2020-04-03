@@ -886,7 +886,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 60px;
   overflow: hidden;
   border-radius: 50%;
-  float: right;
+  float: left;
   margin: 0 10px 10px 0;
 }
 
@@ -1756,3 +1756,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   opacity: 1;
   right: 0;
 }
+@media (max-width: 321px) {
+#schedule .schedule-item p {
+  margin-left:24%;
+  }}
