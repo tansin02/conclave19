@@ -1592,6 +1592,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-left: 1000px;
   margin-bottom: 300px;
 }
+.gform{ 
+  color:red;
+  text-decoration: underline;
+}
+.gform:hover{
+  color:orange;
+  text-decoration: none;
+} 
 
 /*--------------------------------------------------------------
 # Responsive Media Queries
